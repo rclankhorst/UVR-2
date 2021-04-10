@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80b4ad39-4bdc-48c4-a3db-d0ac7809382e" name="Default Changelist" comment="Progress" />
+    <list default="true" id="80b4ad39-4bdc-48c4-a3db-d0ac7809382e" name="Default Changelist" comment="Progress">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GrabbableObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GrabbableObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchCollisionTracker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchCollisionTracker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PinchController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVR-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Grass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Grass.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/GrassLayer.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/GrassLayer.terrainlayer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Rock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Rock.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/RockLayer.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/RockLayer.terrainlayer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Snow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Snow.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/SnowLayer.terrainlayer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/SnowLayer.terrainlayer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain Assets/Terrain.asset.meta" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +53,14 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Grabbable.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GrabbableObject.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PinchCollisionTracker.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PinchController.cs" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1qRfDVDQnpbwNcLVeKUKPRsTcLp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +78,7 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
@@ -50,6 +88,7 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
