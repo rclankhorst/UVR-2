@@ -2,6 +2,12 @@
 
 An experiment in Unity with Oculus Quest (Oculus Link) grabbing items with hand tracking.
 
+## How to download
+
+Note: creating an archive from Github will **not** download any asset files (LFS) which are committed to this repository (as of now, this is 368 MB).
+
+In order to get these asset files, clone the repository on your local system instead (ensure you have Git + Git LFS installed).
+
 ## Built with
 
 - Unity 2020.3.0f1 (LTS release as of early 2021)
